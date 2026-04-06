@@ -46,9 +46,3 @@ It supports multiple roles including Admin, Doctor, Patient, and Receptionist.
 
 ---
 
-## ⚙️ Installation
-
-### 1. Clone Repo
-```bash
-git clone https://github.com/YOUR_USERNAME/Hospital_Management_System.git
-cd Hospital_Management_System
